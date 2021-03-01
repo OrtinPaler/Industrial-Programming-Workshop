@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ortin/CLionProjects/lab_1/WorkMatrix.h
+
+/Users/ortin/CLionProjects/lab_1/main.cpp
+WorkMatrix.h
+/Users/ortin/CLionProjects/lab_1/WorkMatrix.h
+iostream
+-
+
